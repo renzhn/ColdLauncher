@@ -3,7 +3,6 @@
 - 可能修复了偶尔出现的冻结图标不变灰问题
 - 初始化桌面时，正常应用和冻结应用会按安装时间排序
 - 额，今天是我的生日
-EN:
 - fix folder icon padding
 - may fix sometimes icon not greyed when freezing
 - sort apps (both normal and frozen) by install time when initiating desktop
