@@ -1,3 +1,9 @@
+### Version 1.2.6 (2015-04-26)
+- 为了避免困惑，不会在桌面添加冻结的系统应用
+- 设置页面分组
+- won't add frozen system apps on desktop
+- grouping settings page
+
 ### Version 1.2.5 (2015-04-25)
 - 修复文件夹图标padding
 - 可能修复了偶尔出现的冻结图标不变灰问题
