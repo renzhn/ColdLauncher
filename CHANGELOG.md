@@ -1,3 +1,8 @@
+### Version 1.2.7 (2015-04-28)
+- 无抽屉模式下，如果一个图标无法启动，现在可以删除它
+- if an icon can't launch in none drawer mode, you can remove it
+- fixes play license checking issue
+
 ### Version 1.2.6 (2015-04-26)
 - 为了避免困惑，不会在桌面添加冻结的系统应用
 - 设置页面分组
