@@ -1,3 +1,9 @@
+### Version 1.3.1 (2015-05-02)
+- 优化冻结应用速度
+- 抽屉模式下同时隐藏抽屉中的应用
+- optimize freeze speed
+- hiding apps in drawer at the same time (drawer mode)
+
 ### Version 1.3 (2015-05-02)
 - 新增隐藏应用功能
 - 新增“显示冻结的系统应用”选项
