@@ -1,7 +1,9 @@
 ### Version 1.3 (2015-05-02)
 - 新增隐藏应用功能
+- 新增“显示冻结的系统应用”选项
 - 同步最新 Trebuchet 代码
-- add hide apps feature 
+- add hide apps feature
+- add "show frozen system apps" option
 - sync with latest Trebuchet code
 
 ### Version 1.2.8 (2015-04-30)
