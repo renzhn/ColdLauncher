@@ -1,3 +1,9 @@
+### Version 1.3 (2015-05-02)
+- 新增隐藏应用功能
+- 同步最新 Trebuchet 代码
+- add hide apps feature 
+- sync with latest Trebuchet code
+
 ### Version 1.2.8 (2015-04-30)
 - 修正了重启后解冻系统应用产生重复图标的问题
 - fixed duplicate icon issue when defrosting system app after restart
