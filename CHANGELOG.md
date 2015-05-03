@@ -1,3 +1,9 @@
+### Version 1.3.2 (2015-05-03)
+- 优化桌面加载速度
+- 在无抽屉和有抽屉模式下，允许在一个文件夹中放置相当于4页主屏图标数量的图标
+- optimize desktop load speed
+- in nondrawer and drawer mode, allow as much as 4 homescreen icons to be placed in a folder
+
 ### Version 1.3.1 (2015-05-02)
 - 优化冻结应用速度
 - 抽屉模式下同时隐藏抽屉中的应用
