@@ -1,3 +1,12 @@
+### Version 1.3.4 (2015-05-05)
+- 对于无法获取IMEI的设备，支持使用WIFI的MAC地址作为备用激活选项
+- 修复抽屉模式下冻结解冻产生重复图标的bug
+- 修复抽屉模式下无法卸载冻结应用的bug
+- 修复抽屉模式下没有静默卸载的bug
+- 修复部分设置没有立即生效的bug
+- fixed several bugs in drawer mode (duplicate icons, unistall apps)
+- fixed some setttings don't take effect immediately bug
+
 ### Version 1.3.3 (2015-05-03)
 - 修复小部件页面为空白的bug
 - fixed empty widgets page bug
