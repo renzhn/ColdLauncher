@@ -1,3 +1,9 @@
+### Version 1.3.6 (2015-05-06)
+- 无抽屉模式下，托盘的图标与桌面图标使用相同的大小
+- 无抽屉模式下，托盘图标的左右间距与桌面图标左右间距相同
+- hotseat icon size is the same as desktop icon's in no drawer mode
+- hotseat's left and right padding is the same as desktop's in no drawer mode
+
 ### Version 1.3.5 (2015-05-05)
 - 修正检查授权错误的问题
 
