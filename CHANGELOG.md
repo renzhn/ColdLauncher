@@ -1,3 +1,9 @@
+### Version 1.3.7 (2015-05-07)
+- 修正了多个可能导致崩溃的潜在bug，提高稳定性（进行了看代码修bug活动^_^）
+- 改进冻结解冻方式，修正在部分机型上冻结解冻文件夹卡住的问题
+- fixed many potential bugs that could cause crash
+- improved freeze/defrost method (no freezing UI)
+
 ### Version 1.3.6 (2015-05-06)
 - 无抽屉模式下，托盘的图标与桌面图标使用相同的大小
 - 无抽屉模式下，托盘图标的左右间距与桌面图标左右间距相同
