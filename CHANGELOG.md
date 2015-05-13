@@ -2,8 +2,13 @@
 - 无抽屉模式下，托盘图标数量与桌面图标列数一致
 - 无抽屉模式下，更改网格大小时超出屏幕图标会追加到最后一页
 - 允许文件夹中放任意数量的图标
-- 同步 Trebuchet 代码
+- 同步Trebuchet代码
 - bug修复及性能优化
+- The number of hotseat icons is the same as the columns of desktop icons in no drawer mode
+- If icons out of screen bounds when changing grid size of desktop in no drawer mode, they will be appended to last page
+- Allow any number of icons in a folder
+- Sync with Trebuchet code
+- Bug fixes and performance improvements
 
 ### Version 1.3.8 (2015-05-12)
 - 少量bug修复
