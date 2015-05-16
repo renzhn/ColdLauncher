@@ -1,3 +1,9 @@
+### Version 1.4 (2015-05-16)
+- 清理资源文件，减小22%体积
+- 修正抽屉模式下文件夹内容无法滚动的问题
+- Clean up resources to lower the size of apk by 22%
+- Fixed the issue where folder content cann't be scrolled in drawer mode
+
 ### Version 1.3.9 (2015-05-13)
 - 无抽屉模式下，托盘图标数量与桌面图标列数一致
 - 无抽屉模式下，更改网格大小时超出屏幕图标会追加到最后一页
