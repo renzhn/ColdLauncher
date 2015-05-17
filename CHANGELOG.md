@@ -1,3 +1,11 @@
+### Version 1.4.1 (2015-05-17)
+- 如果未开启“显示冻结的系统应用”选项，冻结系统应用会隐藏它们
+- 修正一个可能导致卸载应用时崩溃的bug
+- 修正在没有浏览器的情况下点击设置中网页链接崩溃的bug
+- Freeze system apps will hide them if "show frozen system app" not enabled
+- Fixed a bug which may cause crash when unistalling apps
+- Fixed a bug which causes crash when no browser available
+
 ### Version 1.4 (2015-05-16)
 - 清理资源文件，减小22%体积
 - 修正抽屉模式下文件夹内容无法滚动的问题
