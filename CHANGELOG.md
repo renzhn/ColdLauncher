@@ -1,3 +1,11 @@
+### Version 1.4.2 (2015-05-23)
+- 新的冻结/解冻UI，冻结的图标会在右下角有一个小锁，冻结解冻中的应用会有一个开着的小锁
+- 修正冻结系统应用相关bug
+- 修正收集的崩溃问题
+- New freezing/defrosting UI, there will be a lock in bottom right of frozen app icon
+- Fixes bugs related to frozen system apps
+- Fixes crashes collected
+
 ### Version 1.4.1 (2015-05-17)
 - 如果未开启“显示冻结的系统应用”选项，冻结系统应用会隐藏它们
 - 修正一个可能导致卸载应用时崩溃的bug
