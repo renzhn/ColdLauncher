@@ -1,3 +1,7 @@
+### Version 1.4.3 (2015-05-25)
+- 新的应用图标和冻结图标，使用雪花和雨滴的形状，冷桌面更冷了
+- New app icon and freeze icon using shape of snow and raindrop, Cold Launcher is colder
+
 ### Version 1.4.2 (2015-05-23)
 - 新的冻结/解冻UI，冻结的图标会在右下角有一个小锁，冻结解冻中的应用会有一个开着的小锁
 - 修正冻结系统应用相关bug
