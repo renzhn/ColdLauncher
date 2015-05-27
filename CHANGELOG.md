@@ -1,6 +1,12 @@
+### Version 1.4.4 (2015-05-27)
+- 增加使用黑白风格图标的选项
+- 其他修正
+- Added option to use classic style: frozen icons will be greyed out
+- Other fixes
+
 ### Version 1.4.3 (2015-05-25)
 - 新的应用图标和冻结图标，使用雪花和雨滴的形状，冷桌面更冷了
-- New app icon and freeze icon using shape of snow and raindrop, Cold Launcher is colder
+- New app icon and freeze icon using shape of snow and raindrop, Cold Launcher is colder now
 
 ### Version 1.4.2 (2015-05-23)
 - 新的冻结/解冻UI，冻结的图标会在右下角有一个小锁，冻结解冻中的应用会有一个开着的小锁
@@ -45,7 +51,7 @@
 - 改进冻结解冻方式，修正在部分机型上冻结解冻文件夹卡住的问题
 - 移除“去除应用名前面多余空格”选项（默认开启）
 - fixed many potential bugs that could cause crash
-- improved freeze/defrost method (no freezing UI)
+- improved freeze/defrost method (fixed stuck on some devices)
 - remove "Strip Extra Space in App Name" option (enabled by default)
 
 ### Version 1.3.6 (2015-05-06)
