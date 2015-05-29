@@ -1,3 +1,7 @@
+### Version 1.4.5 (2015-05-29)
+- 修正添加桌面快捷方式（如Chrome书签，QQ联系人）的相关问题
+- Fixed issues related to installing shortcuts to desktop
+
 ### Version 1.4.4 (2015-05-27)
 - 增加使用黑白风格图标的选项
 - 其他修正
