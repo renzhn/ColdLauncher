@@ -8,7 +8,7 @@
 	4. 用 Root Explorer 将1.4.6及以上冷桌面安装包复制到 /system/priv-app/ （4.2系统复制到 /system/app/）
 	5. 重启手机
 	6. 用钛备份恢复数据
-	7. 完
+	7. 运行冷桌面
 
 - Cold launcher will use ultrafast system built-in method to freeze apps if installed as system app, see "Settings" - "Changelog" for installation method.
 
@@ -19,7 +19,7 @@
 	4. Copy apk of Cold Launcher (1.4.6 and above) to /system/priv-app/ using Root Explorer (For Andorid 4.2 it's /system/app/)
 	5. Reboot
 	6. Restore Cold Launcher data using Titanium Backup
-	7. Done
+	7. Launch Cold Launcher
 
 
 ### Version 1.4.5 (2015-05-29)
