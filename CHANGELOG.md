@@ -1,5 +1,5 @@
 ### Version 1.4.6 (2015-05-30)
-- 如果将冷桌面安装为系统应用，冷桌面可以无需ROOT使用系统内置的方法瞬间冻结和解冻应用，速度秒杀所有通过ROOT冻结解冻的应用，安装方法见“设置” - “更新日志”。
+- 如果将冷桌面安装为系统应用，冷桌面将无需ROOT使用超快的系统内置方法冻结和解冻应用，速度秒杀所有通过ROOT冻结解冻的应用，安装方法见“设置” - “更新日志”。
 
 	安装为系统应用：
 	1. 从“设置” - “检查更新”中下载安装包
@@ -10,7 +10,7 @@
 	6. 用钛备份恢复数据
 	7. 完
 
-- Cold launcher will use ultrafast native method to freeze apps if installed as system app, see "Settings" - "Changelog" for installation method.
+- Cold launcher will use ultrafast system built-in method to freeze apps if installed as system app, see "Settings" - "Changelog" for installation method.
 
 	Install as system app：
 	1. Download apk from "Settings" - "Check Update"
