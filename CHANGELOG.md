@@ -1,3 +1,27 @@
+### Version 1.4.6 (2015-05-30)
+- 如果将冷桌面安装为系统应用，冷桌面可以无需ROOT使用系统内置的方法瞬间冻结和解冻应用，速度秒杀所有通过ROOT冻结解冻的应用，安装方法见“设置” - “更新日志”。
+
+> 安装为系统应用：
+> 1. 从“设置” - “检查更新”中下载安装包
+> 2. 用钛备份备份冷桌面设置
+> 3. 卸载冷桌面
+> 4. 用 Root Explorer 将1.4.6及以上冷桌面安装包复制到 /system/priv-app/ （4.2系统复制到 /system/app/）
+> 5. 重启手机
+> 6. 用钛备份恢复数据
+> 7. 完
+
+- Cold launcher will use ultrafast native method to freeze apps if installed as system app, see "Settings" - "Changelog" for installation method.
+
+> Install as system app：
+> 1. Download apk from "Settings" - "Check Update"
+> 2. Backup Cold Launcher data using Titanium Backup
+> 3. Uninstall Cold Launcher
+> 4. Copy apk of Cold Launcher (1.4.6 and above) to /system/priv-app/ using Root Explorer (For Andorid 4.2 it's /system/app/)
+> 5. Reboot
+> 6. Restore Cold Launcher data using Titanium Backup
+> 7. Done
+
+
 ### Version 1.4.5 (2015-05-29)
 - 修正添加桌面快捷方式（如Chrome书签，QQ联系人）的相关问题
 - Fixed issues related to installing shortcuts to desktop
