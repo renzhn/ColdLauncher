@@ -1,3 +1,11 @@
+### Version 1.4.8 (2015-06-02)
+- 修复CM12省电模式下文件夹内容不显示的bug
+- 优化初始化时托盘默认图标
+- 防止其他应用添加重复的快捷方式（如 Play 市场）
+- fixed empty folder content when in CM12's power save mode
+- optimize default hotseat icons when initializing
+- prevent other apps adding duplicate shortcut (like Play store)
+
 ### Version 1.4.7 (2015-05-31)
 - 安装为系统应用模式下，“解冻并启动”会非常快，就像启动正常应用一样
 - Defrost'n'launch will be as fast as launch normal app if installed as system app
