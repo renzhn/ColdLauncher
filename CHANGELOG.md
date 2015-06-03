@@ -21,6 +21,7 @@
 	5. 重启手机
 	6. 用钛备份恢复数据
 	7. 运行冷桌面
+	8. 注：如果系统有 /system/priv-app/ 这个文件夹必须安装到此，否则安装到 /system/app/ 会没有高级权限，仍会使用旧的冻结方法
 
 - Cold launcher will use ultrafast system built-in method to freeze apps if installed as system app, see "Settings" - "Changelog" for installation method.
 
@@ -32,6 +33,7 @@
 	5. Reboot
 	6. Restore Cold Launcher data using Titanium Backup
 	7. Launch Cold Launcher
+	8. Note: You must install apk to /system/priv-app/ unless you don't have this folder, because apps in /system/app/ don't have advanced permission, so new freeze method won't work!
 
 
 ### Version 1.4.5 (2015-05-29)
