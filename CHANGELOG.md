@@ -1,3 +1,7 @@
+### Version 1.5 (2015-06-06)
+- 移除冻结和解冻按钮，只需“长按和释放”即可冻结应用
+- Removed freeze/defrost button, new "Hold&Release" method to freeze app
+
 ### Version 1.4.8 (2015-06-02)
 - 修复CM12省电模式下文件夹内容不显示的bug
 - 优化初始化时托盘默认图标
