@@ -1,6 +1,24 @@
+### Version 1.5.1 (2015-06-13)
+- 无抽屉模式下，拖动图标时自动整理
+- 支持 Google 云同步备份桌面数据（支持备份桌面布局和高级设置，需要在 Google 账号设置开启备份应用数据）
+- 长按应用可以冻结或解冻
+- 改进对安装在 SD 卡的应用的支持
+- 修正以前版本的重叠图标问题
+- 采用了应用加固方案
+- 其他问题修复，增强稳定性
+- Auto organize when dragging icon in no drawer mode
+- Support Google cloud sync to backup app data
+- Long press icon to freeze/defrost
+- Improved support with SD card apps
+- Fixed overlapped icons in previous versions
+- Adopting apk protection solution
+- Other bug fixes, improved stability
+
+
 ### Version 1.5 (2015-06-06)
 - 移除冻结和解冻按钮，只需“长按和释放”即可冻结应用
 - Removed freeze/defrost button, new "Hold&Release" method to freeze app
+
 
 ### Version 1.4.8 (2015-06-02)
 - 修复CM12省电模式下文件夹内容不显示的bug
@@ -10,9 +28,11 @@
 - optimize default hotseat icons when initializing
 - prevent other apps adding duplicate shortcut (like Play store)
 
+
 ### Version 1.4.7 (2015-05-31)
 - 安装为系统应用模式下，“解冻并启动”会非常快，就像启动正常应用一样
 - Defrost'n'launch will be as fast as launch normal app if installed as system app
+
 
 ### Version 1.4.6 (2015-05-30)
 - 如果将冷桌面安装为系统应用，冷桌面将无需ROOT使用超快的系统内置方法冻结和解冻应用，速度秒杀所有通过ROOT冻结解冻的应用，安装方法见“设置” - “更新日志”。
