@@ -1,3 +1,19 @@
+### Version 1.5.2 (2015-06-27)
+- 修正某些情况下无法删除无效的应用图标的问题
+- 修正添加小部件时的重叠图标问题
+- 移除应用抽屉
+- 移除“解冻并启动”选项（默认开启）
+- 移除“冻结解冻并启动的应用”选项
+- 移除“使用经典风格”选项（图标默认变灰）
+- 更换图标包无需重启
+- 其他问题修复
+- Fixed unable to remove invalid icon issue in some cases
+- Fixed overlapped icon issue when adding widgets
+- Removed app drawer
+- Removed some options
+- Changing icon pack without restart app
+- Other bug fixes
+
 ### Version 1.5.1 (2015-06-13)
 - 无抽屉模式下，拖动图标时自动整理
 - 支持 Google 云同步备份桌面数据（支持备份桌面布局和高级设置，需要在 Google 账号设置开启备份应用数据）
