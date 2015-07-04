@@ -1,0 +1,13 @@
+.settings/
+assets/
+bin/
+gen/
+proguard/
+
+*.launch
+
+.project
+.classpath
+ant.properties
+local.properties
+lint-result.xml

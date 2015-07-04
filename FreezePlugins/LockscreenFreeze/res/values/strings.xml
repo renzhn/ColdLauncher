@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">锁屏冻结</string>
+    <string name="intro">锁屏后冻结在冷桌面启动的应用。如果启动了多个冻结的应用，在锁屏时会冻结这些应用并清空要冻结的应用列表。本插件是开源的，源码在 https://github.com/renzhn/ColdLauncher/tree/master/FreezePlugins/LockscreenFreeze </string>
+    <string name="action_settings">设置</string>
+
+</resources>
