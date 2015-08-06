@@ -1,3 +1,9 @@
+### Version 1.5.3 (2015-08-06)
+- 修正自动整理图标时可能会出现重叠图标的问题
+- 其他修正和改进
+- Fix possible icon overlapping issue while auto arrange icons
+- Other bug fixes and improvements
+
 ### Version 1.5.2 (2015-06-27)
 - 修正某些情况下无法删除无效的应用图标的问题
 - 修正添加小部件时的重叠图标问题
