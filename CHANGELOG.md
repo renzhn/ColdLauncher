@@ -1,3 +1,15 @@
+### Version 1.5.4 (2015-09-03)
+- 为防止误操作，改进了操作方式：
+	1. 冻结或解冻：长按图标并在1秒内放下，并且未移动图标
+	2. 卸载：长按图标1秒以上，并且未移动图标
+	3. 移动图标：长按图标后移动了图标
+- 其他修复
+- Improved user interaction：
+	1. To freeze or defrost app: long click icon and release in 1 second with the icon not moved
+	2. To uninstall app: long click icon for 1 second and longer with the icon not moved
+	3. To move icon: long click icon and moved it (dragging)
+- Other bug fixes
+
 ### Version 1.5.3 (2015-08-06)
 - 修正自动整理图标时可能会出现重叠图标的问题
 - 其他修正和改进
