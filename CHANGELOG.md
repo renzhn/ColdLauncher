@@ -15,6 +15,7 @@
 - other bug fixes and stability improvements
 
 
+
 ### Version 1.5.4 (2015-09-03)
 - 为防止误操作，改进了操作方式：
 	1. 冻结或解冻：长按图标并在1秒内放下，并且未移动图标
