@@ -6,6 +6,7 @@
 - 切换到Android Studio和libsuperuser
 - 其他问题修复和稳定性增强
 
+---
 
 - [Advanced Feature] Show running apps: running apps will be indicated (compatible with Android 4.2 ~ 6.0)
 - [Advanced Feature] Freeze after screen off: Temporarily defrost apps and freeze them after screen is off (except apps defrost with long click)
