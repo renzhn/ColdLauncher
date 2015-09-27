@@ -1,12 +1,29 @@
+### Version 1.6 beta1 (2015-09-27)
+- 【高级特性】显示正在运行的应用：正在运行的应用会被标示出来（兼容安卓4.2 ~ 6.0版本）
+- 【高级特性】屏幕关闭后冻结应用：临时解冻应用并在屏幕关闭后冻结它们（长按解冻的应用除外）
+- 清理了除中英文之外的其他语言，安装包大小减小30%
+- 初次使用加载桌面方式改进
+- 切换到Android Studio和libsuperuser
+- 其他问题修复和稳定性增强
+
+
+- [Advanced Feature] Show running apps: running apps will be indicated (compatible with Android 4.2 ~ 6.0)
+- [Advanced Feature] Freeze after screen off: Temporarily defrost apps and freeze them after screen is off (except apps defrost with long click)
+- removed languages except English and Chinese, reduced apk's size by 30%
+- improved first time loading workspace
+- switch to Android Studio and libsuperuser
+- other bug fixes and stability improvements
+
+
 ### Version 1.5.4 (2015-09-03)
 - 为防止误操作，改进了操作方式：
 	1. 冻结或解冻：长按图标并在1秒内放下，并且未移动图标
-	2. 卸载：长按图标1秒以上，并且未移动图标
+	2. 显示卸载工具栏：长按图标1秒以上，并且未移动图标
 	3. 移动图标：长按图标后移动了图标
 - 其他修复
 - Improved user interaction：
 	1. To freeze or defrost app: long click icon and release in 1 second with the icon not moved
-	2. To uninstall app: long click icon for 1 second and longer with the icon not moved
+	2. To uninstall app(show toolbar): long click icon for 1 second and longer with the icon not moved
 	3. To move icon: long click icon and moved it (dragging)
 - Other bug fixes
 
