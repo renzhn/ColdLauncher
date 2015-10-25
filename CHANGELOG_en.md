@@ -1,3 +1,8 @@
+### Version 1.6 beta2 (2015-10-25)
+- improved welcome screen
+- add "how to use" in settings
+- English FAQ and changelog
+
 ### Version 1.6 beta1 (2015-09-27)
 - [Advanced Feature] Show running apps: running apps will be indicated (compatible with Android 4.2 ~ 6.0)
 - [Advanced Feature] Freeze after screen off: Temporarily defrost apps and freeze them after screen is off (except apps defrost with long click)
