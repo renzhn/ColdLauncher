@@ -6,34 +6,16 @@
 - 切换到Android Studio和libsuperuser
 - 其他问题修复和稳定性增强
 
----
-
-- [Advanced Feature] Show running apps: running apps will be indicated (compatible with Android 4.2 ~ 6.0)
-- [Advanced Feature] Freeze after screen off: Temporarily defrost apps and freeze them after screen is off (except apps defrost with long click)
-- removed languages except English and Chinese, reduced apk's size by 30%
-- improved first time loading workspace
-- switch to Android Studio and libsuperuser
-- other bug fixes and stability improvements
-
-
-
 ### Version 1.5.4 (2015-09-03)
-- 为防止误操作，改进了操作方式：
+- 为防止误操作，改进了操作方式:
 	1. 冻结或解冻：长按图标并在1秒内放下，并且未移动图标
 	2. 显示卸载工具栏：长按图标1秒以上，并且未移动图标
 	3. 移动图标：长按图标后移动了图标
 - 其他修复
-- Improved user interaction：
-	1. To freeze or defrost app: long click icon and release in 1 second with the icon not moved
-	2. To uninstall app(show toolbar): long click icon for 1 second and longer with the icon not moved
-	3. To move icon: long click icon and moved it (dragging)
-- Other bug fixes
 
 ### Version 1.5.3 (2015-08-06)
 - 修正自动整理图标时可能会出现重叠图标的问题
 - 其他修正和改进
-- Fix possible icon overlapping issue while auto arrange icons
-- Other bug fixes and improvements
 
 ### Version 1.5.2 (2015-06-27)
 - 修正某些情况下无法删除无效的应用图标的问题
@@ -44,12 +26,6 @@
 - 移除“使用经典风格”选项（图标默认变灰）
 - 更换图标包无需重启
 - 其他问题修复
-- Fixed unable to remove invalid icon issue in some cases
-- Fixed overlapped icon issue when adding widgets
-- Removed app drawer
-- Removed some options
-- Changing icon pack without restart app
-- Other bug fixes
 
 ### Version 1.5.1 (2015-06-13)
 - 无抽屉模式下，拖动图标时自动整理
@@ -59,38 +35,22 @@
 - 修正以前版本的重叠图标问题
 - 采用了应用加固方案
 - 其他问题修复，增强稳定性
-- Auto organize when dragging icon in no drawer mode
-- Support Google cloud sync to backup app data
-- Long press icon to freeze/defrost
-- Improved support with SD card apps
-- Fixed overlapped icons in previous versions
-- Adopting apk protection solution
-- Other bug fixes, improved stability
-
 
 ### Version 1.5 (2015-06-06)
 - 移除冻结和解冻按钮，只需“长按和释放”即可冻结应用
-- Removed freeze/defrost button, new "Hold&Release" method to freeze app
-
 
 ### Version 1.4.8 (2015-06-02)
 - 修复CM12省电模式下文件夹内容不显示的bug
 - 优化初始化时托盘默认图标
 - 防止其他应用添加重复的快捷方式（如 Play 市场）
-- fixed empty folder content when in CM12's power save mode
-- optimize default hotseat icons when initializing
-- prevent other apps adding duplicate shortcut (like Play store)
-
 
 ### Version 1.4.7 (2015-05-31)
 - 安装为系统应用模式下，“解冻并启动”会非常快，就像启动正常应用一样
-- Defrost'n'launch will be as fast as launch normal app if installed as system app
-
 
 ### Version 1.4.6 (2015-05-30)
 - 如果将冷桌面安装为系统应用，冷桌面将无需ROOT使用超快的系统内置方法冻结和解冻应用，速度秒杀所有通过ROOT冻结解冻的应用，安装方法见“设置” - “更新日志”。
 
-	安装为系统应用：
+	安装为系统应用:
 	1. 从“设置” - “检查更新”中下载安装包（安装包可重命名）
 	2. 用钛备份备份冷桌面设置
 	3. 卸载冷桌面
@@ -100,54 +60,29 @@
 	7. 运行冷桌面
 	8. 注：如果系统有 /system/priv-app/ 这个文件夹必须安装到此，否则安装到 /system/app/ 会没有高级权限，仍会使用旧的冻结方法
 
-- Cold launcher will use ultrafast system built-in method to freeze apps if installed as system app, see "Settings" - "Changelog" for installation method.
-
-	Install as system app：
-	1. Download apk from "Settings" - "Check Update", you can rename the apk if you want
-	2. Backup Cold Launcher data using Titanium Backup
-	3. Uninstall Cold Launcher
-	4. Copy apk of Cold Launcher (1.4.6 and above) to /system/priv-app/ using Root Explorer (For Andorid 4.2 it's /system/app/)
-	5. Reboot
-	6. Restore Cold Launcher data using Titanium Backup
-	7. Launch Cold Launcher
-	8. Note: You must install apk to /system/priv-app/ unless you don't have this folder, because apps in /system/app/ don't have advanced permission, so new freeze method won't work!
-
-
 ### Version 1.4.5 (2015-05-29)
 - 修正添加桌面快捷方式（如Chrome书签，QQ联系人）的相关问题
-- Fixed issues related to installing shortcuts to desktop
 
 ### Version 1.4.4 (2015-05-27)
 - 增加使用黑白风格图标的选项
 - 其他修正
-- Added option to use classic style: frozen icons will be greyed out
-- Other fixes
 
 ### Version 1.4.3 (2015-05-25)
 - 新的应用图标和冻结图标，使用雪花和雨滴的形状，冷桌面更冷了
-- New app icon and freeze icon using shape of snow and raindrop, Cold Launcher is colder now
 
 ### Version 1.4.2 (2015-05-23)
 - 新的冻结/解冻UI，冻结的图标会在右下角有一个小锁，冻结解冻中的应用会有一个开着的小锁
 - 修正冻结系统应用相关bug
 - 修正收集的崩溃问题
-- New freezing/defrosting UI, there will be a lock in bottom right of frozen app icon
-- Fixes bugs related to frozen system apps
-- Fixes crashes collected
 
 ### Version 1.4.1 (2015-05-17)
 - 如果未开启“显示冻结的系统应用”选项，冻结系统应用会隐藏它们
 - 修正一个可能导致卸载应用时崩溃的bug
 - 修正在没有浏览器的情况下点击设置中网页链接崩溃的bug
-- Freeze system apps will hide them if "show frozen system app" not enabled
-- Fixed a bug which may cause crash when unistalling apps
-- Fixed a bug which causes crash when no browser available
 
 ### Version 1.4 (2015-05-16)
 - 清理资源文件，减小22%体积
 - 修正抽屉模式下文件夹内容无法滚动的问题
-- Clean up resources to lower the size of apk by 22%
-- Fixed the issue where folder content cann't be scrolled in drawer mode
 
 ### Version 1.3.9 (2015-05-13)
 - 无抽屉模式下，托盘图标数量与桌面图标列数一致
@@ -155,29 +90,18 @@
 - 允许文件夹中放任意数量的图标
 - 同步Trebuchet代码
 - bug修复及性能优化
-- The number of hotseat icons is the same as the columns of desktop icons in no drawer mode
-- If icons out of screen bounds when changing grid size of desktop in no drawer mode, they will be appended to last page
-- Allow any number of icons in a folder
-- Sync with Trebuchet code
-- Bug fixes and performance improvements
 
 ### Version 1.3.8 (2015-05-12)
 - 少量bug修复
-- minor bug fixes
 
 ### Version 1.3.7 (2015-05-07)
 - 修正了多个可能导致崩溃的潜在bug，提高稳定性（进行了看代码修bug活动^_^）
 - 改进冻结解冻方式，修正在部分机型上冻结解冻文件夹卡住的问题
 - 移除“去除应用名前面多余空格”选项（默认开启）
-- fixed many potential bugs that could cause crash
-- improved freeze/defrost method (fixed stuck on some devices)
-- remove "Strip Extra Space in App Name" option (enabled by default)
 
 ### Version 1.3.6 (2015-05-06)
 - 无抽屉模式下，托盘的图标与桌面图标使用相同的大小
 - 无抽屉模式下，托盘图标的左右间距与桌面图标左右间距相同
-- hotseat icon size is the same as desktop icon's in no drawer mode
-- hotseat's left and right padding is the same as desktop's left and right padding in no drawer mode
 
 ### Version 1.3.5 (2015-05-05)
 - 修正检查授权错误的问题
@@ -188,57 +112,38 @@
 - 修复应用抽屉无法卸载冻结应用的bug
 - 修复应用抽屉没有静默卸载的bug
 - 修复部分设置没有立即生效的bug
-- fixed several bugs in drawer mode (duplicate icons, unistall apps)
-- fixed some setttings don't take effect immediately bug
 
 ### Version 1.3.3 (2015-05-03)
 - 修复小部件页面为空白的bug
-- fixed empty widgets page bug
 
 ### Version 1.3.2 (2015-05-03)
 - 优化桌面加载速度
 - 在无抽屉和有抽屉模式下，允许在一个文件夹中放置相当于4页主屏图标数量的图标
-- optimize desktop load speed
-- in nondrawer and drawer mode, allow as much as 4 homescreen icons to be placed in a folder
 
 ### Version 1.3.1 (2015-05-02)
 - 优化冻结应用速度
 - 抽屉模式下同时隐藏抽屉中的应用
-- optimize freeze speed
-- hiding apps in drawer at the same time (drawer mode)
 
 ### Version 1.3 (2015-05-02)
 - 新增隐藏应用功能
 - 新增“显示冻结的系统应用”选项
 - 同步最新 Trebuchet 代码
-- add hide apps feature
-- add "show frozen system apps" option
-- sync with latest Trebuchet code
 
 ### Version 1.2.8 (2015-04-30)
 - 修正了重启后解冻系统应用产生重复图标的问题
-- fixed duplicate icon issue when defrosting system app after restart
 
 ### Version 1.2.7 (2015-04-28)
 - 无抽屉模式下，如果一个图标无法启动，现在可以删除它
-- if an icon can't launch in none drawer mode, you can remove it
-- fixes play license checking issue
 
 ### Version 1.2.6 (2015-04-26)
 - 为了避免困惑，不会在桌面添加冻结的系统应用
 - 设置页面分组
-- won't add frozen system apps on desktop
-- grouping settings page
 
 ### Version 1.2.5 (2015-04-25)
 - 修复文件夹图标padding
 - 可能修复了偶尔出现的冻结图标不变灰问题
 - 初始化桌面时，正常应用和冻结应用会按安装时间排序
 - 额，今天是我的生日
-- fix folder icon padding
-- may fix sometimes icon not greyed when freezing
-- sort apps (both normal and frozen) by install time when initiating desktop
-- oh, it's my birthday today
 
 ### Version 1.2.4 (2015-04-23)
 - 大量代码优化和修复
