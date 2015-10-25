@@ -3,8 +3,8 @@ FAQ
 
 How to freeze/defrost/uninstall app?
 ---
-	1. To freeze or defrost app: long click icon and release in 1 second with the icon not moved
-	2. To uninstall app(show toolbar): long click icon for 1 second and longer with the icon not moved
+	1. To freeze or defrost app: long click icon and release in 1 second while the icon not moved
+	2. To uninstall app(show toolbar): long click icon for 1 second and longer while the icon not moved
 	3. To move icon: long click icon and moved it (dragging)
 
 Can I freeze/defrost apps faster£¿
