@@ -1,3 +1,6 @@
+### Version 1.6 beta3 (2015-11-28)
+- fixed icon overlap issue that may happen when Cold Launcher is in background
+
 ### Version 1.6 beta2 (2015-10-25)
 - improved welcome screen
 - add "how to use" in settings
