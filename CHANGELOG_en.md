@@ -1,3 +1,7 @@
+### Version 1.7 (2015-12-05)
+- announcing Cold Launcher Classic, a native look and feel version of Cold Launcher
+- adopting Google Analytics
+
 ### Version 1.6 beta3 (2015-11-28)
 - fixed icon overlap issue that may happen when Cold Launcher is in background
 
