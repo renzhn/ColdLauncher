@@ -1,3 +1,9 @@
+### Version 2.0 (2016-03-18)
+- new UI & animation
+- refactor settings page
+- add various options
+- fix if "show running apps" enabled, dekstop sometimes laggy bug
+
 ### Version 1.7 (2015-12-05)
 - announcing Cold Launcher Classic, a native look and feel version of Cold Launcher
 - adopting Google Analytics
