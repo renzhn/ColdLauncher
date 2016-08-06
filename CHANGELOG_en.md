@@ -1,3 +1,9 @@
+### Version 2.1 (2016-08-07)
+- Long time no see！
+- New option: freeze after resume launcher
+- New option: freeze after screen off delay
+- Bug fixes
+
 ### Version 2.0 (2016-03-18)
 - new UI & animation
 - refactor settings page
