@@ -1,3 +1,7 @@
+### Version 2.2 (2016-08-07)
+- Reduced lag for "show running apps" function
+- Bug fixes and improvements
+
 ### Version 2.1 (2016-08-07)
 - Long time no see！
 - New option: freeze after resume launcher
