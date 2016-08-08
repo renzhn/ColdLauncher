@@ -1,3 +1,7 @@
+### Version 2.3 (2016-08-08)
+- Animation improvements
+- Bug fixes on disabling animation
+
 ### Version 2.2 (2016-08-07)
 - Reduced lag for "show running apps" function
 - Bug fixes and improvements
