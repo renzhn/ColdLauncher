@@ -1,3 +1,7 @@
+### Version 2.4 (2016-08-25)
+- Adapting Android 6.0
+- Other fixes and improvements
+
 ### Version 2.3 (2016-08-08)
 - Animation improvements
 - Bug fixes on disabling animation
