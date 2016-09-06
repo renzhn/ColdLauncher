@@ -1,3 +1,9 @@
+### Version 2.6 (2016-09-06)
+- Bug fixes and improvements
+
+### Version 2.5 (2016-09-04)
+- Gestures support
+
 ### Version 2.4 (2016-08-25)
 - Adapting Android 6.0
 - Other fixes and improvements
