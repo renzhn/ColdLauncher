@@ -1,3 +1,6 @@
+### Version 2.7 (2016-09-23)
+- Minor fixes
+
 ### Version 2.6 (2016-09-06)
 - Bug fixes and improvements
 
