@@ -1,3 +1,6 @@
+### Version 2.8 (2016-10-12)
+- Fix license issue
+
 ### Version 2.7 (2016-09-23)
 - Minor fixes
 
