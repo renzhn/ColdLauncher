@@ -1,3 +1,12 @@
+### Version 2.9 (2016-11-25)
+- New: Folder background opacity setting
+- New: Backup settings (desktop layout included)
+- New: Restore settings
+- New: Restart launcher 
+- Fix some compatibility issues
+- Improved crash reporting
+- Removed Google Analytics
+
 ### Version 2.8 (2016-10-12)
 - Fix license issue
 
