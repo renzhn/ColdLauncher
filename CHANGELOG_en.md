@@ -1,3 +1,11 @@
+### Version 3.0 (2016-12-04)
+- More smooth scrolling on desktop
+- Return to first screen when press home button while in launcher
+- Use snow badge as default
+- Use large icon as default
+- Fix laggy scrolling while enable "show running apps"
+- Fix some bugs that causing crash
+
 ### Version 2.9 (2016-11-25)
 - New: Folder background opacity setting
 - New: Backup settings (desktop layout included)
