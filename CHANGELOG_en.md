@@ -1,3 +1,8 @@
+### Version 3.2 (2016-12-05)
+- New icon for "show running apps"
+- Greatly faster freezing and defrosting
+- Removed elevated plugin
+
 ### Version 3.1 (2016-12-05)
 - Fixed missing icon issue
 
