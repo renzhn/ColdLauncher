@@ -1,3 +1,6 @@
+### Version 3.1 (2016-12-05)
+- Fixed missing icon issue
+
 ### Version 3.0 (2016-12-04)
 - More smooth scrolling on desktop
 - Return to first screen when press home button while in launcher
