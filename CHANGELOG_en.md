@@ -1,3 +1,7 @@
+### Version 4.0 (2016-12-07)
+- New simple and intuitive UI
+- Show running apps on Android N above (root required)
+
 ### Version 3.2 (2016-12-05)
 - New icon for "show running apps"
 - Greatly faster freezing and defrosting
