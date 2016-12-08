@@ -1,3 +1,6 @@
+### Version 4.1 (2016-12-08)
+- Fix crash issue on Android N
+
 ### Version 4.0 (2016-12-07)
 - New simple and intuitive UI
 - Show running apps on Android N above (root required)
