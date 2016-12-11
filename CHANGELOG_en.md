@@ -1,3 +1,8 @@
+### Version 4.2 (2016-12-11)
+- Improved popup menu style
+- Faster desktop scrolling speed
+- Fix unable to lock screen using gesture issue
+
 ### Version 4.1 (2016-12-08)
 - Fix crash issue on Android N
 
