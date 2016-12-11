@@ -1,5 +1,6 @@
 ### Version 4.2 (2016-12-11)
 - Improved popup menu style
+- Improved page indicator style
 - Faster desktop scrolling speed
 - Fix unable to lock screen using gesture issue
 
