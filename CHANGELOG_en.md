@@ -1,3 +1,11 @@
+### Version 4.3 (2016-12-15)
+- Add icon size option
+- Add "Allow Rotation" option
+- Add "Reverse Status Bar Color" option (Require at least Android Marshmallow)
+- Optimized folder open animation
+- Fix layout on tablets
+- Other fixes and improvements
+
 ### Version 4.2 (2016-12-11)
 - Improved popup menu style
 - Improved page indicator style
