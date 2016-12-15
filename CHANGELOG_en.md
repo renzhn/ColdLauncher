@@ -3,7 +3,8 @@
 - Add "Allow Rotation" option
 - Add "Reverse Status Bar Color" option (Require at least Android Marshmallow)
 - Optimized folder open animation
-- Fix layout on tablets
+- Fix layout on tablets'
+- Fixed icon overlap issue
 - Other fixes and improvements
 
 ### Version 4.2 (2016-12-11)
