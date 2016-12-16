@@ -1,3 +1,7 @@
+### Version 4.4 (2016-12-16)
+- Speed up desktop loading
+- Widgets page fixes
+
 ### Version 4.3 (2016-12-15)
 - Add icon size option
 - Add "Allow Rotation" option
