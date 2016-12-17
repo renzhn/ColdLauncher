@@ -1,3 +1,7 @@
+### Version 4.5 (2016-12-17)
+- New folder icon UI
+- Moving icon between pages optimization
+
 ### Version 4.4 (2016-12-16)
 - Speed up desktop loading
 - Widgets page fixes
