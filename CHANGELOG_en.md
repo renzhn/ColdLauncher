@@ -1,3 +1,8 @@
+### Version 4.6 (2016-12-19)
+- Chnage folder background opacity
+- Fix default page on launch
+- Fix crash
+
 ### Version 4.5 (2016-12-17)
 - New folder icon UI
 - Moving icon between pages optimization
