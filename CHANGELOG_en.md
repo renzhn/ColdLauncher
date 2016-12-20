@@ -1,5 +1,10 @@
+### Version 4.7 (2016-12-20)
+- Optimize workspace overview style
+- Faster folder open speed
+- Allow to resize any widget
+
 ### Version 4.6 (2016-12-19)
-- Chnage folder background opacity
+- Change folder background opacity
 - Fix default page on launch
 - Fix crash
 
