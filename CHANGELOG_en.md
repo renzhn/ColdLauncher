@@ -1,3 +1,7 @@
+### Version 4.8 (2016-12-21)
+- New "Use icon pack styling" option(use styling provided by icon pack for uncovered icon)
+- Other fixes and improvements
+
 ### Version 4.7 (2016-12-20)
 - Optimize workspace overview style
 - Faster folder open speed
