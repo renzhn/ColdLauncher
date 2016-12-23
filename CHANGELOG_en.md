@@ -1,3 +1,7 @@
+### Version 4.9 (2016-12-23)
+- Fix icon flashing when loading desktop issue
+- Optimize dragging icon operation
+
 ### Version 4.8 (2016-12-21)
 - New "Use icon pack styling" option(use styling provided by icon pack for uncovered icon)
 - Other fixes and improvements
