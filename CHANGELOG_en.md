@@ -1,3 +1,6 @@
+### Version 5.0 (2016-12-29)
+- Fix open folder issue when animation is closed
+
 ### Version 4.9 (2016-12-23)
 - Fix icon flashing when loading desktop issue
 - Optimize dragging icon operation
