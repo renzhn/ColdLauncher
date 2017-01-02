@@ -1,3 +1,6 @@
+### Version 5.1 (2017-01-02)
+- Fix no icon appear when installing new app after all pages are full
+
 ### Version 5.0 (2016-12-29)
 - Fix open folder issue when animation is closed
 
