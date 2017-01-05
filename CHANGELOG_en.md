@@ -1,5 +1,5 @@
 ### Version 6.0 (2017-01-05)
-- Added search page to the left of launcher (T9 supported)
+- Added search page to the left of launcher (T9/QWERTY supported)
 - Other fixes and improvements
 
 ### Version 5.1 (2017-01-02)
