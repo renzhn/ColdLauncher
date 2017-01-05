@@ -1,3 +1,7 @@
+### Version 6.0 (2017-01-05)
+- Added search page to the left of launcher (T9 supported)
+- Other fixes and improvements
+
 ### Version 5.1 (2017-01-02)
 - Fix no icon appear when installing new app after all pages are full
 
