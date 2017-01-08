@@ -1,3 +1,7 @@
+### Version 6.2 (2017-01-08)
+- Transition animation between setting pages
+- Bug fixes and improvements
+
 ### Version 6.1 (2017-01-07)
 - Bug fixes and improvements
 
