@@ -1,3 +1,8 @@
+### Version 6.3 (2017-01-11)
+- New freeze method
+- Fix gesture detection in search page
+- Other fixes and improvements
+
 ### Version 6.2 (2017-01-08)
 - Transition animation between setting pages
 - Bug fixes and improvements
