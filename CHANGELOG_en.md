@@ -1,3 +1,9 @@
+### Version 7 (2017-01-23)
+- New app icon
+- Open search page with gesture
+- Fix tablet layout
+- Other fixes and improvements
+
 ### Version 6.3 (2017-01-11)
 - New freeze method
 - Fix gesture detection in search page
