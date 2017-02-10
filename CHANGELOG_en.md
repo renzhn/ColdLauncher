@@ -1,3 +1,7 @@
+### Version 7.1 (2017-02-10)
+- Fix icon pack related issue
+- Fix Play license related issue
+
 ### Version 7 (2017-01-23)
 - New app icon
 - Open search page with gesture
