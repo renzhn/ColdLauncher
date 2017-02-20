@@ -1,5 +1,6 @@
 ### Version 7.2 (2017-02-20)
 - New option: Set default launcher
+- Long click delete key to clear all text in search page
 - Improve Android 7.0 compatibility
 
 ### Version 7.1 (2017-02-10)
