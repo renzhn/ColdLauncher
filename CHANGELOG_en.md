@@ -1,3 +1,7 @@
+### Version 7.2 (2017-02-20)
+- New option: Set default launcher
+- Improve Android 7.0 compatibility
+
 ### Version 7.1 (2017-02-10)
 - Fix icon pack related issue
 - Fix Play license related issue
