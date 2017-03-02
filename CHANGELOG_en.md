@@ -1,3 +1,8 @@
+### Version 7.3 (2017-03-02)
+- Add popup menu animation
+- Add option to disable T9 dialpad
+- Add icons for settings page
+
 ### Version 7.2 (2017-02-20)
 - New option: Set default launcher
 - Long click delete key to clear all text in search page
