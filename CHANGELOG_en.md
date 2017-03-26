@@ -1,3 +1,9 @@
+### Version 7.4 (2017-03-26)
+- New function! Normalize icon size
+- Icon label in hotseat is shown
+- Folder UI no longer limited to 3 columns
+- Other fixes and improvements
+
 ### Version 7.3 (2017-03-02)
 - Add popup menu animation
 - Add option to disable T9 dialpad
