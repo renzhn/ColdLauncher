@@ -1,3 +1,6 @@
+### Version 7.5 (2017-03-27)
+- Gray icon option（“Settings”-“Basic”-“Use snow badge”）
+
 ### Version 7.4 (2017-03-26)
 - New function! Normalize icon size
 - Icon label in hotseat is shown
