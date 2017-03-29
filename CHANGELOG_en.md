@@ -1,3 +1,9 @@
+### Version 7.6 (2017-03-29)
+- Change icon function
+- Hide icon title function
+- Custom grid: column and row maximum added by 5
+- Fix crash
+
 ### Version 7.5 (2017-03-27)
 - Gray icon option（“Settings”-“Basic”-“Use snow badge”）
 
