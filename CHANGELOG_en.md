@@ -1,3 +1,6 @@
+### Version 7.7 (2017-03-30)
+- Added some text hint
+
 ### Version 7.6 (2017-03-29)
 - Change icon function
 - Hide icon title function
