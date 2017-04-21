@@ -1,3 +1,12 @@
+### Version 8 (2017-04-21)
+- Faster freeze and defrost speed
+- Stability enhancement and performance improvement
+- Bug fixes
+
+### Version 7.8 (2017-03-31)
+- Fix change icon bug
+- Fix crash
+
 ### Version 7.7 (2017-03-30)
 - Added some text hint
 
