@@ -1,3 +1,6 @@
+### Version 8.1 (2017-04-23)
+- Bug fixes
+
 ### Version 8 (2017-04-21)
 - Faster freeze and defrost speed
 - Stability enhancement and performance improvement
