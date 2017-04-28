@@ -1,3 +1,6 @@
+### Version 8.2 (2017-04-28)
+- Bug fixes
+
 ### Version 8.1 (2017-04-23)
 - Bug fixes
 
