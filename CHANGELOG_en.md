@@ -1,3 +1,7 @@
+### Version 8.3 (2017-05-05)
+- Fix widget list refresh issue
+- Fix sending shortcut to launcher fails issue
+
 ### Version 8.2 (2017-04-28)
 - Bug fixes
 
