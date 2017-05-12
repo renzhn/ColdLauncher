@@ -1,3 +1,6 @@
+### Version 8.5 (2017-05-12)
+- Performance improvements
+
 ### Version 8.4 (2017-05-09)
 - Fix crash
 
