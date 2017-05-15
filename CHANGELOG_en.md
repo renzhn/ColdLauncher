@@ -1,3 +1,6 @@
+### Version 8.6 (2017-05-15)
+- New icon title style
+
 ### Version 8.5 (2017-05-12)
 - Performance improvements
 
