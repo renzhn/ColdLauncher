@@ -1,3 +1,8 @@
+### Version 8.7 (2017-05-16)
+- "Dock background" option
+- "Hide page indicator" option
+- Folder icon size adjustment
+
 ### Version 8.6 (2017-05-15)
 - New icon title style
 
