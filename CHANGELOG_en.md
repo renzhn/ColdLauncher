@@ -1,3 +1,7 @@
+### Version 8.8 (2017-06-06)
+- Fix "Hide page indicator" bug
+- Folder icon style adjustment
+
 ### Version 8.7 (2017-05-16)
 - "Dock background" option
 - "Hide page indicator" option
