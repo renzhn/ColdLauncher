@@ -1,3 +1,13 @@
+### Version 9.0 (2017-09-17)
+- Auto restart launcher when crash
+- Add confirm dialog for backup and restore settings
+- Bug fixes and performance improvements
+
+### Version 8.9 (2017-09-01)
+- "Disable Shortcut Creation" option
+- Newly added icon won't be in first page if the desktop has two or more pages
+- Bug fixes and performance improvements
+
 ### Version 8.8 (2017-06-06)
 - Fix "Hide page indicator" bug
 - Folder icon style adjustment
@@ -28,7 +38,7 @@
 
 ### Version 8 (2017-04-21)
 - Faster freeze and defrost speed
-- Stability enhancement and performance improvement
+- Stability enhancements and performance improvements
 - Bug fixes
 
 ### Version 7.8 (2017-03-31)
