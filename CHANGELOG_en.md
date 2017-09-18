@@ -1,3 +1,8 @@
+### Version 9.1 (2017-09-18)
+- New dark theme
+- Add "Use Light Theme" option (legacy style)
+- Improved support for apps installed on SD card
+
 ### Version 9.0 (2017-09-17)
 - Auto restart launcher when crash
 - Add confirm dialog for backup and restore settings
@@ -55,7 +60,7 @@
 - Fix crash
 
 ### Version 7.5 (2017-03-27)
-- Gray icon option（“Settings”-“Basic”-“Use snow badge”）
+- Gray icon option ("Settings"-"Basic"-"Use snow badge")
 
 ### Version 7.4 (2017-03-26)
 - New function! Normalize icon size
