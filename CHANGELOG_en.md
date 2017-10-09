@@ -1,3 +1,6 @@
+### Version 9.2 (2017-10-09)
+- Add "Hide Tray Icon Title Only" option
+
 ### Version 9.1 (2017-09-18)
 - New dark theme
 - Add "Use Light Theme" option (legacy style)
