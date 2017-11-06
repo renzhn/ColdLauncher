@@ -1,3 +1,10 @@
+### Version 9.3 (2017-11-05)
+- Add "Icon Text Size" option ("Settings - Basic")
+- Add "Show running apps[ROOT]" option for Android 7.0 and above ("Settings - Advanced")
+- Change green dot icon for running apps
+- Layout improvements such as icon padding, icon normalization
+- Update Android SDK version 27
+
 ### Version 9.2 (2017-10-09)
 - Add "Hide Tray Icon Title Only" option
 
