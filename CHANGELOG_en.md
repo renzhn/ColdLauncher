@@ -1,3 +1,6 @@
+### Version 9.4 (2018-03-26)
+- Fix "show running apps" on Android O (root required)
+
 ### Version 9.3 (2017-11-05)
 - Add "Icon Text Size" option ("Settings - Basic")
 - Add "Show running apps[ROOT]" option for Android 7.0 and above ("Settings - Advanced")
