@@ -1,3 +1,8 @@
+### Version 9.5 (2018-05-10)
+- Fix dual apps crash issue
+- Newly added apps will appear at last page instead of finding vacancy
+- Fix other crash
+
 ### Version 9.4 (2018-03-26)
 - Fix "show running apps" on Android O (root required)
 
