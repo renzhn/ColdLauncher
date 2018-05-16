@@ -1,3 +1,9 @@
+### Version 9.6 (2018-05-16)
+- Default grid size increased(first time initializing)
+- Default hotseat apps: phone, contacts, messaging...(first time initializing)
+- Reduced background refresh times, optmize battery usage
+- Fixed an NPE
+
 ### Version 9.5 (2018-05-10)
 - Fix dual apps crash issue
 - Newly added apps will appear at last page instead of finding vacancy
