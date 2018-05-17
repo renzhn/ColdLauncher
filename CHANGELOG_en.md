@@ -1,3 +1,7 @@
+### Version 9.7 (2018-05-17)
+- Fix first time usage related issue
+- Update SDK version
+
 ### Version 9.6 (2018-05-16)
 - Default grid size increased(first time initializing)
 - Default hotseat apps: phone, contacts, messaging...(first time initializing)
