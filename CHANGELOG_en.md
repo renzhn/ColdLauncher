@@ -1,3 +1,6 @@
+### Version 9.8 (2018-05-17)
+- Fix folder icon padding
+
 ### Version 9.7 (2018-05-17)
 - Fix first time usage related issue
 - Update SDK version
