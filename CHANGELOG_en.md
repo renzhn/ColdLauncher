@@ -1,3 +1,8 @@
+### Version 10 (2018-05-19)
+- Thanks Marco for new app icon!
+- Fix icon freeze state issue
+- Fix icon pack issue on Android O
+
 ### Version 9.8 (2018-05-17)
 - Fix folder icon padding
 
