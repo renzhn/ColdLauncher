@@ -1,3 +1,6 @@
+### Version 10.1 (2018-06-25)
+- Prompt to upgrade completely remade [TS Launcher](https://play.google.com/store/apps/details?id=net.ohrz.tslauncher), which has latest Android features such as notification dots, app shortcuts(6.0+) and adaptive icons(8.0+)
+
 ### Version 10 (2018-05-19)
 - Thanks Marco for new app icon!
 - Fix icon freeze state issue
