@@ -1,3 +1,6 @@
+### Version 10.1 (2018-06-25)
+- 提示升级全新的[TS桌面](https://www.coolapk.com/apk/net.ohrz.tslauncher)，拥有通知角标、app shortcuts(6.0+)和自适应图标(8.0+)等Android最新特性
+
 ### Version 10 (2018-05-19)
 - 感谢意大利网友Marco提供的新图标！
 - 修复开启锁屏冻结时解锁后应用状态异常问题
